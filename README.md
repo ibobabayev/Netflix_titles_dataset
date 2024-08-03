@@ -1,1 +1,1 @@
-# Netflix_titles_dataset
+Exploratory data analysis netflix titles dataset using pandas
